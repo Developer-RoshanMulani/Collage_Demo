@@ -1,4 +1,4 @@
 # Collage_Demo
-This is my first repositor
+This is my first repository
 <br/>
-Author Roshan Mulani
+Author : Roshan Mulani
